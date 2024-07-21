@@ -17,7 +17,7 @@ Which countries have the most roller coasters?
 What are the most common types of roller coasters?
 How have roller coasters evolved over the years?
 Dataset
-The dataset used in this analysis contains detailed information about roller coasters, including their names, locations, manufacturers, types, heights, speeds, lengths, and more. The data has been sourced from [Insert Source Here], ensuring a wide coverage of roller coasters globally.
+The dataset used in this analysis contains detailed information about roller coasters, including their names, locations, manufacturers, types, heights, speeds, lengths, and more. The data has been sourced from https://www.kaggle.com/datasets/robikscube/rollercoaster-database, ensuring a wide coverage of roller coasters globally.
 
 Installation
 To run this analysis, you'll need to have Python and the following libraries installed:
@@ -33,12 +33,7 @@ bash
 Copy code
 pip install pandas numpy matplotlib seaborn jupyter
 Usage
-Clone this repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/Exploratory-Data-Analysis-Using-Roller-Coaster-Database.git
-Navigate to the project directory:
 
 bash
 Copy code
